@@ -5,7 +5,7 @@
 
 A **Hidden Markov Model (HMM)** for Part-of-Speech (POS) tagging on Urdu text, implemented from scratch in Python. Uses the **Viterbi algorithm** for decoding and achieves **~93% token-level accuracy** on the included corpus.
 
-> **Author:** Aashan Khan | **Course:** Machine Learning / Classical NLP  
+> **Author:** Mian Ameer | **Course:** Machine Learning / Classical NLP  
 > **References:** [CLE Urdu POS Tagset (LREC 2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/275_Paper.pdf) · [Anwar et al. (2007), HMM-based Urdu POS Tagger](https://pdfs.semanticscholar.org/7a3f/1ea18bf3e8223890b122bc31fb79db758c6e.pdf) · [UD Urdu Treebank](https://universaldependencies.org/treebanks/ur_udtb/index.html)
 
 ---
