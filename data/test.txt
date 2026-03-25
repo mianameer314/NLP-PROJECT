@@ -1,0 +1,548 @@
+یہ	PRP
+کا	IN
+بچہ	NN
+پیا	VBD
+!	PUNC
+
+بیوقوف	JJ
+سکول	NN
+ہوا	VBD
+:	PUNC
+
+میٹھا	JJ
+سکول	NN
+کے بارے میں	IN
+کھانا	NN
+ہے	VBZ
+۔	PUNC
+
+نیا	JJ
+رات	NN
+آیا	VBD
+،	PUNC
+
+تم نے	PRP
+کی	IN
+پھول	NN
+تاکہ	CC
+پیسہ	NN
+سنا	VBD
+۔	PUNC
+
+وہ	PRP
+کا	IN
+سڑک	NN
+کہا	VBD
+لیکن	CC
+تمہیں	PRP
+کے لیے	IN
+پاؤں	NN
+ہوتا ہے	VBZ
+۔	PUNC
+
+تمہیں	PRP
+کبھی	RB
+گیا	VBD
+،	PUNC
+
+محمد	NNP
+میں	IN
+اچھا	JJ
+پانی	NN
+ہے	VBZ
+:	PUNC
+
+تمہیں	PRP
+کو	IN
+دل	NN
+کھایا	VBD
+کیونکہ	CC
+تمہیں	PRP
+میں	IN
+خبر	NN
+ہوتا ہے	VBZ
+؟	PUNC
+
+کئی	DT
+چھوٹا	JJ
+گاؤں	NN
+کے بارے میں	IN
+رات	NN
+تک	IN
+ہیں	VBZ
+۔	PUNC
+
+تیز	JJ
+بات	NN
+تک	IN
+دشمن	NN
+لیا	VBD
+؟	PUNC
+
+یہ	PRP
+یہاں	RB
+جنگل	NN
+پڑھا	VBD
+!	PUNC
+
+ہمیں	PRP
+ہفتہ	NN
+کے علاوہ	IN
+سڑک	NN
+کیا	VBD
+؟	PUNC
+
+کب	WP
+وہ	DT
+آسمان	NN
+تیز	JJ
+ہوں	VBZ
+،	PUNC
+
+یہ	DT
+دن	NN
+اندر	RB
+سفید	JJ
+جاتا ہے	VBZ
+،	PUNC
+
+ذہین	JJ
+دل	NN
+کی	IN
+وقت	NN
+لیا	VBD
+،	PUNC
+
+عائشہ	NNP
+تک	IN
+خبر	NN
+سنا	VBD
+!	PUNC
+
+تم	PRP
+کے بارے میں	IN
+کھانا	NN
+آتا ہے	VBZ
+،	PUNC
+
+مجھے	PRP
+کے ساتھ	IN
+عورت	NN
+نہیں	NEG
+کرتا ہے	VBZ
+!	PUNC
+
+ہم	PRP
+کے علاوہ	IN
+پاکستان	NNP
+پر	IN
+کھایا	VBD
+،	PUNC
+
+اسے	PRP
+کے ساتھ	IN
+نام	NN
+پڑھا	VBD
+اور	CC
+انہوں	PRP
+میں	IN
+دل	NN
+ہوتا ہے	VBZ
+،	PUNC
+
+اس	PRP
+کے لیے	IN
+دو	CD
+کام	NN
+بنایا	VBD
+!	PUNC
+
+ہم	PRP
+مت	NEG
+کیا	VBD
+،	PUNC
+
+کوئی	DT
+ہفتہ	NN
+یہاں	RB
+آسان	JJ
+کرتی ہے	VBZ
+،	PUNC
+
+مجھے	PRP
+کے علاوہ	IN
+نام	NN
+مت	NEG
+تھی	VBD
+۔	PUNC
+
+آپ	PRP
+پنجاب	NNP
+کے ساتھ	IN
+سمجھا	VBD
+:	PUNC
+
+دروازہ	NN
+نے	IN
+کھانا	NN
+گیا	VBD
+؟	PUNC
+
+آپ	PRP
+کے بارے میں	IN
+پاؤں	NN
+پھر بھی	CC
+رات	NN
+دیکھا	VBD
+:	PUNC
+
+اس	PRP
+نیچے	RB
+سنا	VBD
+!	PUNC
+
+یہ	PRP
+کے ساتھ	IN
+گاؤں	NN
+ہیں	VBZ
+!	PUNC
+
+ہم	PRP
+جنگل	NN
+کی	IN
+تھا	VBD
+:	PUNC
+
+ہم	PRP
+کا	IN
+سندھ	NNP
+کے	IN
+دیا	VBD
+۔	PUNC
+
+ان	PRP
+راستہ	NN
+کے علاوہ	IN
+لکھا	VBD
+،	PUNC
+
+کیا	WP
+وہ	DT
+پھل	NN
+اچھا	JJ
+آتا ہے	VBZ
+؟	PUNC
+
+آپ	PRP
+بات	NN
+لیا	VBD
+!	PUNC
+
+ہمیں	PRP
+صرف	RB
+سمجھا	VBD
+۔	PUNC
+
+اس	PRP
+درخت	NN
+کے علاوہ	IN
+وقت	NN
+سمجھا	VBD
+:	PUNC
+
+دس	CD
+پرانا	JJ
+دشمن	NN
+کے علاوہ	IN
+سال	NN
+ہوا	VBD
+؟	PUNC
+
+مجھے	PRP
+تک	IN
+پھل	NN
+دیا	VBD
+کہ	CC
+اس	PRP
+کے لیے	IN
+پھول	NN
+کرتا ہے	VBZ
+؟	PUNC
+
+اسے	PRP
+کی	IN
+خبر	NN
+نہ	NEG
+آتا ہے	VBZ
+؟	PUNC
+
+تم نے	PRP
+مت	NEG
+کہا	VBD
+؟	PUNC
+
+مجھے	PRP
+کا	IN
+گاڑی	NN
+اندر	RB
+لکھا	VBD
+؟	PUNC
+
+ہم	PRP
+کم	RB
+دن	NN
+تھے	VBD
+؟	PUNC
+
+کہانی	NN
+خوبصورت	JJ
+آتا ہے	VBZ
+،	PUNC
+
+مجھ	PRP
+کے علاوہ	IN
+آسمان	NN
+مت	NEG
+کہا	VBD
+،	PUNC
+
+کچھ	DT
+کمرہ	NN
+کم	RB
+نیلا	JJ
+ہوتا ہے	VBZ
+،	PUNC
+
+کیا	WP
+تم	PRP
+بات	NN
+دیکھا	VBD
+کیسے	WP
+
+تم	PRP
+کا	IN
+سندھ	NNP
+سے	IN
+تھا	VBD
+:	PUNC
+
+غریب	JJ
+کہانی	NN
+تک	IN
+خط	NN
+لیا	VBD
+؟	PUNC
+
+ہم	PRP
+کا	IN
+عورت	NN
+یا	CC
+کہانی	NN
+دیا	VBD
+:	PUNC
+
+تم نے	PRP
+کراچی	NNP
+کے بارے میں	IN
+آیا	VBD
+۔	PUNC
+
+ہمیں	PRP
+سست	JJ
+بازار	NN
+سنا	VBD
+۔	PUNC
+
+ہم	PRP
+نے	IN
+ہاتھ	NN
+کیا	VBD
+؟	PUNC
+
+ان	PRP
+کا	IN
+آسان	JJ
+پیسہ	NN
+تک	IN
+کراچی	NNP
+بنایا	VBD
+!	PUNC
+
+وہ	PRP
+روٹی	NN
+دیکھا	VBD
+لیکن	CC
+اسے	PRP
+دشمن	NN
+کہا	VBD
+،	PUNC
+
+اسے	PRP
+کے ساتھ	IN
+دن	NN
+لیا	VBD
+،	PUNC
+
+مجھ	PRP
+غریب	JJ
+کھانا	NN
+دیکھا	VBD
+۔	PUNC
+
+تمہیں	PRP
+چھوٹا	JJ
+بازار	NN
+گیا	VBD
+!	PUNC
+
+تم نے	PRP
+کو	IN
+کتاب	NN
+کہ	CC
+کام	NN
+دیا	VBD
+!	PUNC
+
+یہ	PRP
+رات	NN
+تھا	VBD
+کہ	CC
+تمہیں	PRP
+ہفتہ	NN
+دیا	VBD
+۔	PUNC
+
+ان	PRP
+کے لیے	IN
+راستہ	NN
+اندر	RB
+بنایا	VBD
+؟	PUNC
+
+تمہیں	PRP
+کے لیے	IN
+ہفتہ	NN
+صرف	RB
+دیا	VBD
+،	PUNC
+
+ان	PRP
+دروازہ	NN
+تک	IN
+موسم	NN
+پڑھا	VBD
+!	PUNC
+
+تم نے	PRP
+نہ	NEG
+ہوا	VBD
+،	PUNC
+
+کیسے	WP
+وہ	DT
+پیسہ	NN
+تیز	JJ
+ہوتا ہے	VBZ
+؟	PUNC
+
+تم	PRP
+میں	IN
+سڑک	NN
+بنایا	VBD
+،	PUNC
+
+دونوں	DT
+نیا	JJ
+راستہ	NN
+دیکھا	VBD
+:	PUNC
+
+روٹی	NN
+نیلا	JJ
+ہوں	VBZ
+:	PUNC
+
+لاہور	NNP
+کے علاوہ	IN
+دوست	NN
+تھی	VBD
+!	PUNC
+
+اس	PRP
+بات	NN
+تک	IN
+دل	NN
+تھی	VBD
+:	PUNC
+
+گاؤں	NN
+کے	IN
+رات	NN
+تھا	VBD
+!	PUNC
+
+مجھ	PRP
+میں	IN
+موسم	NN
+لیا	VBD
+کیونکہ	CC
+تم	PRP
+میں	IN
+جگہ	NN
+کرتی ہے	VBZ
+۔	PUNC
+
+میں	PRP
+پر	IN
+خط	NN
+میں	IN
+دن	NN
+کھایا	VBD
+،	PUNC
+
+ہمیں	PRP
+کہانی	NN
+کی	IN
+کہانی	NN
+کھایا	VBD
+؟	PUNC
+
+سو	CD
+امیر	JJ
+کام	NN
+پر	IN
+گاؤں	NN
+ہوا	VBD
+،	PUNC
+
+تم	PRP
+کبھی	RB
+آسان	JJ
+نام	NN
+بنایا	VBD
+،	PUNC
+
+کتنا	WP
+میں	PRP
+گھر	NN
+سنا	VBD
+کب	WP
+
+انہوں	PRP
+کے علاوہ	IN
+کام	NN
+کو	IN
+کمرہ	NN
+پیا	VBD
+؟	PUNC
+
+ہم	PRP
+کبھی نہیں	RB
+جنگل	NN
+کیا	VBD
+۔	PUNC
+
+مجھے	PRP
+گھر	NN
+دیا	VBD
+،	PUNC
