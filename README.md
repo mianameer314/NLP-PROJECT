@@ -1,59 +1,87 @@
-# Urdu POS Tagger — HMM with NLTK
+# Urdu POS Tagger — BiLSTM + CRF (Deep Learning)
 
-A minimal Part-of-Speech tagger for the **Urdu language** using NLTK's built-in Hidden Markov Model (HMM) trainer and Viterbi decoding.
+A Deep-Learning Part-of-Speech tagger for the **Urdu language** using a
+Bidirectional LSTM with a CRF decoder, trained on the full
+[UD Urdu Treebank](https://universaldependencies.org/treebanks/ur_udtb/index.html).
 
 ## Project Structure
 
 ```
 NLP-PROJECT/
 ├── data/
-│   └── sample_corpus.txt   ← 80 Urdu sentences (CLE format: WORD\tTAG)
-├── urdu_pos_tagger.ipynb   ← Single notebook: load → train → evaluate → demo
+│   └── sample_corpus.txt   ← 80 Urdu sentences (CLE format, for reference)
+├── urdu_pos_tagger.ipynb   ← Main notebook: load → explore → train → evaluate → demo
 └── README.md
 ```
 
 ## Quick Start
 
 ```bash
-pip install nltk scikit-learn matplotlib seaborn
+pip install torch pytorch-crf datasets scikit-learn matplotlib seaborn tqdm pandas
 jupyter notebook urdu_pos_tagger.ipynb
 ```
 
-## Data Format (CLE Style)
+## Dataset — UD Urdu Treebank
 
-Each line contains `WORD<TAB>TAG`. A blank line marks the end of a sentence.
+Loaded automatically from HuggingFace Hub (`universal-dependencies/universal_dependencies`, config `ur_udtb`).
+
+| Split | Sentences | Tokens |
+|-------|-----------|--------|
+| Train | 4,323 | ~101 K |
+| Dev   | 516   | ~12 K  |
+| Test  | 535   | ~13 K  |
+
+**Tags** — 17 Universal POS (UPOS) tags:
+
+| Tag   | Meaning            | Tag    | Meaning            |
+|-------|--------------------|--------|--------------------|
+| NOUN  | Common Noun        | VERB   | Verb               |
+| PROPN | Proper Noun        | AUX    | Auxiliary Verb     |
+| PRON  | Pronoun            | ADJ    | Adjective          |
+| DET   | Determiner         | ADV    | Adverb             |
+| ADP   | Adposition/Postpos | NUM    | Numeral            |
+| CCONJ | Coord. Conj.       | SCONJ  | Subord. Conj.      |
+| PART  | Particle           | PUNCT  | Punctuation        |
+| INTJ  | Interjection       | SYM    | Symbol             |
+| X     | Other / Foreign    |        |                    |
+
+## Model Architecture
 
 ```
-میں	PRP
-نے	IN
-کتاب	NN
-پڑھی	VBD
-۔	PUNC
+Input tokens
+      │
+  Word Embeddings  (128-d, learned)
+      │
+  Dropout (0.3)
+      │
+  BiLSTM × 2 layers  (256-d hidden, bidirectional)
+      │
+  Linear (256 → num_tags)
+      │
+  CRF Decoder  ← models tag-transition constraints
+      │
+  Predicted tag sequence
 ```
 
-## POS Tags
+The **CRF layer** replaces a plain softmax: it jointly decodes the whole sequence
+and learns constraints such as "a VERB rarely follows PUNCT", yielding higher
+accuracy than independent per-token classification.
 
-| Tag  | Meaning              | Example        |
-|------|----------------------|----------------|
-| NN   | Common Noun          | کتاب (book)    |
-| NNP  | Proper Noun          | لاہور (Lahore) |
-| PRP  | Pronoun              | میں (I/me)     |
-| VBZ  | Present Verb         | ہے (is)        |
-| VBD  | Past Verb            | پڑھی (read)    |
-| VB   | Base Verb            | پڑھ (read)     |
-| JJ   | Adjective            | اچھا (good)    |
-| RB   | Adverb               | بہت (very)     |
-| IN   | Postposition         | میں (in)       |
-| DT   | Determiner           | یہ (this)      |
-| CC   | Conjunction          | اور (and)      |
-| CD   | Cardinal Number      | دو (two)       |
-| NEG  | Negation             | نہیں (not)     |
-| WP   | Question Word        | کیا (what)     |
-| PUNC | Punctuation          | ۔ ؟            |
+## Notebook Sections
 
-## Algorithm
+| # | Section | Content |
+|---|---------|---------|
+| 1 | Imports & Config | Hyper-parameters, device selection |
+| 2 | Load Dataset | UD Urdu Treebank via HuggingFace `datasets` |
+| 3 | Data Exploration | Token stats, tag frequency & length distribution plots |
+| 4 | Preprocessing | Word vocabulary, PyTorch `Dataset` & `DataLoader` |
+| 5 | Model Architecture | `BiLSTM_CRF` class definition |
+| 6 | Training | Adam + LR scheduler, loss/accuracy curves |
+| 7 | Evaluation | Classification report + normalised confusion matrix |
+| 8 | Error Analysis | Most-confused tag pairs, per-tag error rates |
+| 9 | Live Demo | Tag arbitrary Urdu sentences + colour-coded table |
 
-The notebook uses **NLTK's `HiddenMarkovModelTrainer`** — a supervised HMM with:
-- Transition probabilities learned from training data
-- Emission probabilities with Laplace smoothing
-- Viterbi decoding for optimal tag sequence inference
+## Expected Results
+
+- **Test accuracy**: ≥ 90 %
+- **Macro F1**: ≥ 0.88
