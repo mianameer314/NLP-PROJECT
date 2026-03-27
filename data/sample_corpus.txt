@@ -1,0 +1,488 @@
+میں	PRP
+نے	IN
+کتاب	NN
+پڑھی	VBD
+۔	PUNC
+
+وہ	PRP
+لاہور	NNP
+میں	IN
+رہتا	VBZ
+ہے	VBZ
+۔	PUNC
+
+احمد	NNP
+نے	IN
+کھانا	NN
+کھایا	VBD
+۔	PUNC
+
+بچے	NN
+سکول	NN
+جاتے	VBZ
+ہیں	VBZ
+۔	PUNC
+
+آج	RB
+موسم	NN
+اچھا	JJ
+ہے	VBZ
+۔	PUNC
+
+وہ	PRP
+بہت	RB
+اچھا	JJ
+لڑکا	NN
+ہے	VBZ
+۔	PUNC
+
+میں	PRP
+پاکستان	NNP
+میں	IN
+رہتا	VBZ
+ہوں	VBZ
+۔	PUNC
+
+فاطمہ	NNP
+نے	IN
+خط	NN
+لکھا	VBD
+۔	PUNC
+
+یہ	DT
+گھر	NN
+بڑا	JJ
+ہے	VBZ
+۔	PUNC
+
+استاد	NN
+نے	IN
+سوال	NN
+پوچھا	VBD
+۔	PUNC
+
+وہ	PRP
+کام	NN
+نہیں	NEG
+کرتا	VBZ
+۔	PUNC
+
+ہم	PRP
+مل	RB
+کر	IN
+کام	NN
+کریں	VB
+گے	VB
+۔	PUNC
+
+پاکستان	NNP
+ایک	CD
+خوبصورت	JJ
+ملک	NN
+ہے	VBZ
+۔	PUNC
+
+بچہ	NN
+رو	VB
+رہا	VBZ
+ہے	VBZ
+۔	PUNC
+
+آم	NN
+میٹھا	JJ
+ہے	VBZ
+۔	PUNC
+
+ماں	NN
+نے	IN
+کھانا	NN
+پکایا	VBD
+۔	PUNC
+
+وہ	PRP
+کتاب	NN
+پڑھ	VB
+رہی	VBZ
+ہے	VBZ
+۔	PUNC
+
+میرا	DT
+دوست	NN
+کراچی	NNP
+میں	IN
+ہے	VBZ
+۔	PUNC
+
+کل	RB
+بارش	NN
+ہوئی	VBD
+۔	PUNC
+
+طالب	NN
+علم	NN
+نے	IN
+امتحان	NN
+دیا	VBD
+۔	PUNC
+
+یہ	DT
+سیب	NN
+سرخ	JJ
+اور	CC
+میٹھا	JJ
+ہے	VBZ
+۔	PUNC
+
+دو	CD
+لڑکے	NN
+کھیل	VB
+رہے	VBZ
+ہیں	VBZ
+۔	PUNC
+
+استاد	NN
+کلاس	NN
+میں	IN
+آئے	VBD
+۔	PUNC
+
+وہ	PRP
+کیا	WP
+چاہتا	VBZ
+ہے	VBZ
+؟	PUNC
+
+تم	PRP
+کہاں	WP
+جا	VB
+رہے	VBZ
+ہو	VBZ
+؟	PUNC
+
+لاہور	NNP
+پاکستان	NNP
+کا	IN
+ایک	CD
+بڑا	JJ
+شہر	NN
+ہے	VBZ
+۔	PUNC
+
+میں	PRP
+نے	IN
+آج	RB
+بازار	NN
+سے	IN
+سبزی	NN
+خریدی	VBD
+۔	PUNC
+
+وہ	PRP
+بہت	RB
+تھکا	VBD
+ہوا	VBZ
+ہے	VBZ
+۔	PUNC
+
+چاند	NN
+رات	NN
+کو	IN
+نکلتا	VBZ
+ہے	VBZ
+۔	PUNC
+
+کتا	NN
+بھونک	VB
+رہا	VBZ
+ہے	VBZ
+۔	PUNC
+
+نئی	JJ
+کتاب	NN
+دلچسپ	JJ
+ہے	VBZ
+۔	PUNC
+
+وہ	PRP
+تین	CD
+بچوں	NN
+کا	IN
+باپ	NN
+ہے	VBZ
+۔	PUNC
+
+میں	PRP
+نے	IN
+اسے	PRP
+نہیں	NEG
+دیکھا	VBD
+۔	PUNC
+
+پھول	NN
+خوبصورت	JJ
+ہوتے	VBZ
+ہیں	VBZ
+۔	PUNC
+
+بارش	NN
+میں	IN
+بھیگنا	VB
+اچھا	JJ
+لگتا	VBZ
+ہے	VBZ
+۔	PUNC
+
+آسمان	NN
+نیلا	JJ
+ہے	VBZ
+۔	PUNC
+
+وہ	PRP
+تیز	JJ
+دوڑتا	VBZ
+ہے	VBZ
+۔	PUNC
+
+میں	PRP
+سونا	VB
+چاہتا	VBZ
+ہوں	VBZ
+۔	PUNC
+
+بچے	NN
+خوش	JJ
+ہیں	VBZ
+۔	PUNC
+
+کلاس	NN
+میں	IN
+بیس	CD
+طالب	NN
+علم	NN
+ہیں	VBZ
+۔	PUNC
+
+وہ	PRP
+کب	WP
+آئے	VBD
+گا	VB
+؟	PUNC
+
+میری	DT
+ماں	NN
+بیمار	JJ
+ہے	VBZ
+۔	PUNC
+
+ہم	PRP
+نے	IN
+فلم	NN
+دیکھی	VBD
+۔	PUNC
+
+گائے	NN
+دودھ	NN
+دیتی	VBZ
+ہے	VBZ
+۔	PUNC
+
+وہ	PRP
+اردو	NNP
+بولتا	VBZ
+ہے	VBZ
+۔	PUNC
+
+سورج	NN
+مشرق	NN
+سے	IN
+طلوع	VB
+ہوتا	VBZ
+ہے	VBZ
+۔	PUNC
+
+درخت	NN
+لمبا	JJ
+ہے	VBZ
+۔	PUNC
+
+میں	PRP
+نے	IN
+کھانا	NN
+نہیں	NEG
+کھایا	VBD
+۔	PUNC
+
+وہ	PRP
+گھر	NN
+پر	IN
+نہیں	NEG
+ہے	VBZ
+۔	PUNC
+
+پانی	NN
+ٹھنڈا	JJ
+ہے	VBZ
+۔	PUNC
+
+بلی	NN
+سو	VB
+رہی	VBZ
+ہے	VBZ
+۔	PUNC
+
+یہ	DT
+میرا	DT
+گھر	NN
+ہے	VBZ
+۔	PUNC
+
+کل	RB
+اتوار	NN
+ہے	VBZ
+۔	PUNC
+
+میں	PRP
+پڑھ	VB
+رہا	VBZ
+ہوں	VBZ
+۔	PUNC
+
+وہ	PRP
+بازار	NN
+گئی	VBD
+۔	PUNC
+
+استاد	NN
+نے	IN
+جواب	NN
+دیا	VBD
+۔	PUNC
+
+مجھے	PRP
+پیاس	NN
+لگی	VBD
+ہے	VBZ
+۔	PUNC
+
+وہ	PRP
+شاعر	NN
+ہے	VBZ
+۔	PUNC
+
+ہوا	NN
+چل	VB
+رہی	VBZ
+ہے	VBZ
+۔	PUNC
+
+آج	RB
+سردی	NN
+بہت	RB
+زیادہ	JJ
+ہے	VBZ
+۔	PUNC
+
+بچہ	NN
+ہنس	VB
+رہا	VBZ
+ہے	VBZ
+۔	PUNC
+
+تم	PRP
+نے	IN
+کیا	WP
+کہا	VBD
+؟	PUNC
+
+وہ	PRP
+ایک	CD
+مشہور	JJ
+استاد	NN
+ہے	VBZ
+۔	PUNC
+
+میں	PRP
+کھانا	NN
+کھا	VB
+رہا	VBZ
+ہوں	VBZ
+۔	PUNC
+
+آم	NN
+درخت	NN
+پر	IN
+لگتے	VBZ
+ہیں	VBZ
+۔	PUNC
+
+پرندے	NN
+آسمان	NN
+میں	IN
+اڑتے	VBZ
+ہیں	VBZ
+۔	PUNC
+
+انہوں	PRP
+نے	IN
+مل	RB
+کر	IN
+کام	NN
+کیا	VBD
+۔	PUNC
+
+یہ	DT
+سوال	NN
+مشکل	JJ
+ہے	VBZ
+۔	PUNC
+
+میں	PRP
+اسلام	NNP
+آباد	NNP
+گیا	VBD
+۔	PUNC
+
+وہ	PRP
+روز	RB
+ورزش	NN
+کرتا	VBZ
+ہے	VBZ
+۔	PUNC
+
+مجھے	PRP
+نیند	NN
+آ	VB
+رہی	VBZ
+ہے	VBZ
+۔	PUNC
+
+نئی	JJ
+فلم	NN
+اچھی	JJ
+تھی	VBD
+۔	PUNC
+
+وہ	PRP
+سات	CD
+بجے	RB
+آئے	VBD
+۔	PUNC
+
+میرے	DT
+دو	CD
+بھائی	NN
+ہیں	VBZ
+۔	PUNC
+
+بچوں	NN
+نے	IN
+کھیل	NN
+کھیلا	VBD
+۔	PUNC
+
+کتاب	NN
+میز	NN
+پر	IN
+ہے	VBZ
+۔	PUNC
+
